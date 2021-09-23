@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-.cash-register {
+.container {
     text-align: center;
     background-color: var(--primary-color);
     padding: 2rem 1rem;
